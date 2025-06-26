@@ -1,6 +1,6 @@
 # Login_Sign up UI
 
-A beautiful and responsive login/signup UI built with Flutter.
+Login/signup UI built with Flutter.
 
 ## 📸 Screenshots
 
