@@ -17,7 +17,6 @@ class _SignUpPageState extends State<SignUpPage> {
 
   void _submitForm() {
     if (_formKey.currentState!.validate()) {
-      // You can now send this data to your backend or Firebase
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text("Account created successfully!")),
       );
