@@ -5,13 +5,13 @@ A beautiful and responsive login/signup UI built with Flutter.
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](https://i.postimg.cc/xNY73hgj/login.png)
+<img src="https://i.postimg.cc/xNY73hgj/login.png" alt="Login Screen" width="600"/>
 
 ### 📝 Sign Up Screen
-![Sign Up Screen](https://i.postimg.cc/N5NsLkf2/signup.png)
+<img src="https://i.postimg.cc/N5NsLkf2/signup.png" alt="Sign Up Screen" width="600"/>
 
 ### ⚠️ Sign Up with Validation Error
-![Sign Up Validation](https://i.postimg.cc/06SPWgG7/signup-validation.png)
+<img src="https://i.postimg.cc/06SPWgG7/signup-validation.png" alt="Sign Up Validation" width="600"/>
 
 ---
 
@@ -27,4 +27,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
