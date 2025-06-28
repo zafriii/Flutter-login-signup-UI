@@ -2,17 +2,6 @@
 
 Login/signup UI built with Flutter.
 
-## 📸 Screenshots
-
-### 🔐 Login Screen
-<img src="https://i.postimg.cc/xNY73hgj/login.png" alt="Login Screen" style="max-width: 100%; height: auto;" />
-
-### 📝 Sign Up Screen
-<img src="https://i.postimg.cc/N5NsLkf2/signup.png" alt="Sign Up Screen" style="max-width: 100%; height: auto;" />
-
-### ⚠️ Sign Up with Validation Error
-<img src="https://i.postimg.cc/06SPWgG7/signup-validation.png" alt="Sign Up Validation" style="max-width: 100%; height: auto;" />
-
 ---
 
 ## 🚀 Getting Started
